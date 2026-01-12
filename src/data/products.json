@@ -1,0 +1,217 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "silk-blazer-noir",
+    "name": "Silk Blazer Noir",
+    "description": "An architectural masterpiece crafted from Italian silk. Sharp lines meet fluid drape in this statement blazer, designed for the modern minimalist who appreciates the intersection of structure and elegance.",
+    "price": 1850,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1936&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "material": "100% Italian Silk",
+    "composition": "Shell: 100% Silk, Lining: 100% Cupro",
+    "careInstructions": "Dry clean only. Store on padded hanger.",
+    "madeIn": "Italy",
+    "inStock": true,
+    "gridSpan": "col-span-2"
+  },
+  {
+    "id": "prod-002",
+    "slug": "cashmere-turtleneck",
+    "name": "Cashmere Turtleneck",
+    "description": "Timeless luxury in its purest form. This turtleneck is knitted from the finest Mongolian cashmere, offering unparalleled softness and warmth. A wardrobe essential that transcends seasons.",
+    "price": 890,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=2005&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b79c4f?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L"],
+    "material": "100% Mongolian Cashmere",
+    "composition": "100% Cashmere (Grade A)",
+    "careInstructions": "Hand wash cold or dry clean. Lay flat to dry.",
+    "madeIn": "Scotland",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  },
+  {
+    "id": "prod-003",
+    "slug": "tailored-trousers",
+    "name": "Tailored Trousers",
+    "description": "Precision-cut trousers in virgin wool. The high-waisted silhouette elongates the leg while maintaining a relaxed, architectural fit. A study in balance and proportion.",
+    "price": 720,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=1888&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?q=80&w=1887&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["24", "25", "26", "27", "28", "29", "30"],
+    "material": "Virgin Wool",
+    "composition": "98% Virgin Wool, 2% Elastane",
+    "careInstructions": "Dry clean only. Press with steam.",
+    "madeIn": "Japan",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  },
+  {
+    "id": "prod-004",
+    "slug": "leather-trench-coat",
+    "name": "Leather Trench Coat",
+    "description": "A contemporary reinterpretation of the classic trench. Crafted from butter-soft lambskin leather with a structured shoulder and flowing silhouette. The ultimate statement piece.",
+    "price": 3200,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=2005&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L"],
+    "material": "Lambskin Leather",
+    "composition": "100% Lambskin Leather, Lining: 100% Silk",
+    "careInstructions": "Professional leather cleaning only.",
+    "madeIn": "France",
+    "inStock": true,
+    "gridSpan": "col-span-2 row-span-2"
+  },
+  {
+    "id": "prod-005",
+    "slug": "minimalist-shirt",
+    "name": "Minimalist Shirt",
+    "description": "The perfect white shirt doesn't exist—until now. Cut from crisp cotton poplin with a slightly oversized fit and concealed button placket. Simplicity perfected.",
+    "price": 450,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=1883&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1515372039744-b8d02a5ae12c?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "material": "Cotton Poplin",
+    "composition": "100% Organic Cotton",
+    "careInstructions": "Machine wash cold. Tumble dry low or hang dry.",
+    "madeIn": "Portugal",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  },
+  {
+    "id": "prod-006",
+    "slug": "wool-coat",
+    "name": "Wool Coat",
+    "description": "A sculptural coat in double-faced wool. The oversized collar and minimalist silhouette create a cocoon of warmth and sophistication. Designed to be worn for decades.",
+    "price": 2400,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=2005&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1887&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=2005&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L"],
+    "material": "Double-Faced Wool",
+    "composition": "90% Virgin Wool, 10% Cashmere",
+    "careInstructions": "Dry clean only.",
+    "madeIn": "Italy",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  },
+  {
+    "id": "prod-007",
+    "slug": "silk-slip-dress",
+    "name": "Silk Slip Dress",
+    "description": "Effortless elegance in bias-cut silk charmeuse. This slip dress drapes beautifully on the body, with delicate spaghetti straps and a cowl neckline. Day to night versatility.",
+    "price": 980,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=1883&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1515372039744-b8d02a5ae12c?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L"],
+    "material": "Silk Charmeuse",
+    "composition": "100% Silk",
+    "careInstructions": "Dry clean or hand wash cold. Hang dry.",
+    "madeIn": "France",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  },
+  {
+    "id": "prod-008",
+    "slug": "leather-bag",
+    "name": "Leather Tote",
+    "description": "A timeless tote in vegetable-tanned leather. Spacious yet refined, with minimal hardware and a structured base. The leather will develop a rich patina over time.",
+    "price": 1200,
+    "category": "Accessories",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=1869&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=1902&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1934&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=1902&auto=format&fit=crop",
+    "sizes": ["One Size"],
+    "material": "Vegetable-Tanned Leather",
+    "composition": "100% Full-Grain Leather",
+    "careInstructions": "Condition regularly with leather cream. Avoid water.",
+    "madeIn": "Italy",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  },
+  {
+    "id": "prod-009",
+    "slug": "mens-overcoat",
+    "name": "Men's Overcoat",
+    "description": "A commanding presence in heavyweight wool. This overcoat features a relaxed fit with strong shoulders and a generous length. Timeless tailoring for the modern gentleman.",
+    "price": 2800,
+    "category": "Men",
+    "images": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "material": "Heavyweight Wool",
+    "composition": "95% Virgin Wool, 5% Cashmere",
+    "careInstructions": "Dry clean only.",
+    "madeIn": "England",
+    "inStock": true,
+    "gridSpan": "col-span-2"
+  },
+  {
+    "id": "prod-010",
+    "slug": "knit-sweater",
+    "name": "Knit Sweater",
+    "description": "Chunky knit in merino wool. The relaxed fit and ribbed details create a cozy yet refined aesthetic. Perfect for layering or wearing solo.",
+    "price": 650,
+    "category": "Women",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=2005&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1887&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b79c4f?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "hoverImage": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1887&auto=format&fit=crop",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "material": "Merino Wool",
+    "composition": "100% Extra Fine Merino Wool",
+    "careInstructions": "Hand wash cold. Lay flat to dry.",
+    "madeIn": "Ireland",
+    "inStock": true,
+    "gridSpan": "col-span-1"
+  }
+]

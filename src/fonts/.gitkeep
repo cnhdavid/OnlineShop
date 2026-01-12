@@ -1,0 +1,7 @@
+# Font Files Directory
+
+Place your custom font files here:
+- didot-regular.woff2
+- didot-bold.woff2
+
+These fonts are referenced in src/app/layout.tsx

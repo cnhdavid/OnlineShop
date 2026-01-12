@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-luxury-gray-dark;
+  }
+  
+  body {
+    @apply overflow-x-hidden;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  ::selection {
+    @apply bg-luxury-white text-luxury-black;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .luxury-gradient {
+    background: linear-gradient(
+      180deg,
+      rgba(10, 10, 10, 0) 0%,
+      rgba(10, 10, 10, 0.8) 100%
+    );
+  }
+
+  .luxury-border {
+    @apply border border-luxury-gray-dark/30;
+  }
+
+  .luxury-hover {
+    @apply transition-all duration-500 ease-luxury;
+  }
+
+  .luxury-focus {
+    @apply focus:outline-none focus:ring-2 focus:ring-luxury-white/20 focus:ring-offset-2 focus:ring-offset-luxury-black;
+  }
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
